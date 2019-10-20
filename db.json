@@ -1,0 +1,9 @@
+{
+  "cocktails": [
+    {
+      "id": 1,
+      "title": "Mojito",
+      "author": "thomas"
+    }
+  ]
+}
