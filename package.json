@@ -13,7 +13,7 @@
     "db": "json-server --watch db.json"
   },
   "dependencies": {
-    "axios": "^0.19.0",
+    "axios": "^0.21.1",
     "compression": "^1.7.1",
     "json-server": "^0.15.1",
     "polka": "next",
